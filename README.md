@@ -1,4 +1,4 @@
-# Installation
+# Building
 
 - mkdir ~/rpmbuild
 - git clone https://github.com/antidoid/libfprint-tod-goodix-0.0.9
